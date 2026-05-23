@@ -36,34 +36,40 @@ class MohamedNagy:
 ---
 
 ## `> tech_stack --list`
+### 💻 Software Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,django,git,linux,aws,docker&theme=dark" height="48"/>
+</p>
 
-### 🧠 AI / ML Core
+### 🧠 AI / ML
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" height="48"/>
   &nbsp;
+  <img src="https://img.shields.io/badge/Time%20Series-9D4EDD?style=flat-square&logo=python&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/NLP-C084FC?style=flat-square&logo=python&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Fine--Tuning-E879F9?style=flat-square&logo=huggingface&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/OpenAI%20SDK-412991?style=flat-square&logo=openai&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="48"/>
+</p>
+
+### 📊 Data & Visualization
+<p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" height="48"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="48"/>
-</p>
-
-### 💻 Languages & Dev
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,django,git,github,linux&theme=dark" height="48"/>
-</p>
-
-### 📊 Data Visualization
-<p align="left">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=plotly&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="48"/>
 </p>
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="48"/>
 </p>
 
 ### 🕸️ Web Scraping
@@ -79,6 +85,7 @@ class MohamedNagy:
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/MS_Project-217346?style=flat-square&logo=microsoft&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="48"/>
 </p>
 
 ---
